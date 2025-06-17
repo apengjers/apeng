@@ -12,7 +12,7 @@ Welcome to my GitHub! I'm a student and aspiring software developer who’s pass
 - 👨‍💻 Focused on improving my skills through real-world projects and open source contributions
 - 💬 Ask me about anything related to web development or university tech life
 - 📚 Sometimes I share tutorials and tech notes from what I learn in class
-- 📫 How to reach me: [apengjers@gmail.com]
+- 📫 How to reach me: apengjers@gmail.com
 
 ---
 
