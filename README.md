@@ -12,7 +12,7 @@ Welcome to my GitHub! I'm a student and aspiring software developer who’s pass
 - 👨‍💻 Focused on improving my skills through real-world projects and open source contributions
 - 💬 Ask me about anything related to web development or university tech life
 - 📚 Sometimes I share tutorials and tech notes from what I learn in class
-- 📫 How to reach me: [your-email@example.com] or [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+- 📫 How to reach me: [apengjers@gmail.com]
 
 ---
 
@@ -44,9 +44,7 @@ Welcome to my GitHub! I'm a student and aspiring software developer who’s pass
 ---
 
 ## 📬 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:apengjers@gmail.com)
 
 ---
 
